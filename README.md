@@ -1,10 +1,15 @@
 # Vigía · instaladores
 
-Aquí solo están los instaladores de Vigía. El código es privado.
+![Descargas](https://img.shields.io/github/downloads/JcperezDev/vigia-releases/total?label=descargas&color=6d5bd0)
+![Última versión](https://img.shields.io/github/v/release/JcperezDev/vigia-releases?label=versi%C3%B3n)
+
+Aquí solo están los instaladores de Vigía. El código es privado. Web: https://jcperezdev.github.io/vigia-releases/
+
+Vigía es gratis: no tiene cuenta, anuncios ni versión de pago. No envía datos tuyos; el número de descargas sale de los contadores públicos de GitHub.
 
 ## Instalar
 
-1. Baja **Puente.exe** de la [última versión](https://github.com/JcperezDev/vigia-releases/releases/latest).
+1. Baja **[Vigia-Setup.exe](https://github.com/JcperezDev/vigia-releases/releases/latest/download/Vigia-Setup.exe)** (es Puente, el instalador).
 2. Ábrelo. Te pide permiso de administrador porque Vigía lo necesita para leer sensores y aplicar ajustes.
 3. Puente descarga Vigía, comprueba la firma y crea los accesos en el Escritorio y en Inicio.
 
